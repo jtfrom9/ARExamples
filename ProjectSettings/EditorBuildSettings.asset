@@ -20,4 +20,37 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PlaneClassification.unity
     guid: fa76f3d1c25084be691a7e1b1cda5fba
+  - enabled: 1
+    path: Assets/Scenes/AllPointCloudPoints.unity
+    guid: 5de902a9524bf42e2992a81687833d4c
+  - enabled: 1
+    path: Assets/Scenes/Anchors.unity
+    guid: 98342a206210a400e93af8325d77ba35
+  - enabled: 1
+    path: Assets/Scenes/ARCollaborationDataExample.unity
+    guid: b3055b169b38b489ebc9ddf47c956db6
+  - enabled: 1
+    path: Assets/Scenes/ARWorldMap.unity
+    guid: 38d21806cab054f99bbcf241bc9590c6
+  - enabled: 1
+    path: Assets/Scenes/CameraImage.unity
+    guid: 2c3f23246569741579d67644a1a1bb63
+  - enabled: 1
+    path: Assets/Scenes/Check Support.unity
+    guid: 554ed373ee906498e906a148c7fd7544
+  - enabled: 1
+    path: Assets/Scenes/ImageTracking.unity
+    guid: 4635cc229b4084b60979ea6a6a84803a
+  - enabled: 1
+    path: Assets/Scenes/LightEstimation.unity
+    guid: 61965f8dd622d421eb7a255698bc3f4f
+  - enabled: 1
+    path: Assets/Scenes/ObjectTracking.unity
+    guid: 688831495148b4c43b68b5cac289cefc
+  - enabled: 1
+    path: Assets/Scenes/PlaneOcclusion.unity
+    guid: f714287c47ec64ebbbb1aef642465f60
+  - enabled: 1
+    path: Assets/Scenes/Scale.unity
+    guid: 8213fc3cd5ae247d8a92adbe54ff9f0f
   m_configObjects: {}
