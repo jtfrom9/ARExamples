@@ -39,11 +39,23 @@ EditorBuildSettings:
     path: Assets/Scenes/Check Support.unity
     guid: 554ed373ee906498e906a148c7fd7544
   - enabled: 1
+    path: Assets/Scenes/ARCoreFaceRegions.unity
+    guid: fb618f3265f764459bc3fb589966e1e9
+  - enabled: 1
+    path: Assets/Scenes/ARKitFaceBlendShapes.unity
+    guid: 2c3d1eb33fc93472c8462a02e6b31da4
+  - enabled: 1
+    path: Assets/Scenes/FixationPoint.unity
+    guid: 985627a65143c407eb69dae396abf692
+  - enabled: 1
     path: Assets/Scenes/ImageTracking.unity
     guid: 4635cc229b4084b60979ea6a6a84803a
   - enabled: 1
     path: Assets/Scenes/LightEstimation.unity
     guid: 61965f8dd622d421eb7a255698bc3f4f
+  - enabled: 1
+    path: Assets/Scenes/EnvironmentProbes.unity
+    guid: 457ea3a06c1094200964c80dafbc7169
   - enabled: 1
     path: Assets/Scenes/ObjectTracking.unity
     guid: 688831495148b4c43b68b5cac289cefc
@@ -53,4 +65,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scale.unity
     guid: 8213fc3cd5ae247d8a92adbe54ff9f0f
+  - enabled: 1
+    path: Assets/Scenes/EyeLasers.unity
+    guid: 33bc979852d4946fca1772c84350a072
+  - enabled: 1
+    path: Assets/Scenes/EyePoses.unity
+    guid: 95c53675367f24157a841812ecc7da31
+  - enabled: 1
+    path: Assets/Scenes/FaceMesh.unity
+    guid: 444700e3bf34548be89e2d6c99cfd46f
+  - enabled: 1
+    path: Assets/Scenes/FacePose.unity
+    guid: b1f4c6f7f9c984978a414c0442b1ccd3
   m_configObjects: {}
