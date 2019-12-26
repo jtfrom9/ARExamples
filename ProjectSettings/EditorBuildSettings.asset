@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Main.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/ARExamples/Menu.unity
+    guid: 4b71bfb0f02274dd28d4093b78a5baaf
+  - enabled: 1
+    path: Assets/Scenes/SimpleAR.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/FeatheredPlane.unity
+    guid: c8a185630b4334e618e3d85a4853873b
+  - enabled: 1
+    path: Assets/Scenes/TogglePlaneDetection.unity
+    guid: ebc8978b7f81c400897f3a2059a6044c
+  - enabled: 1
+    path: Assets/Scenes/PlaneClassification.unity
+    guid: fa76f3d1c25084be691a7e1b1cda5fba
   m_configObjects: {}
