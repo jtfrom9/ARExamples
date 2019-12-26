@@ -402,7 +402,7 @@ PrefabInstance:
     - target: {fileID: 171569634835423552, guid: cb32766b7b8b64f40a2c472323ebc796,
         type: 3}
       propertyPath: m_Name
-      value: MenuButton (1)
+      value: FeatheredPlane
       objectReference: {fileID: 0}
     - target: {fileID: 171569634835423553, guid: cb32766b7b8b64f40a2c472323ebc796,
         type: 3}
@@ -508,6 +508,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 171569636591638407, guid: cb32766b7b8b64f40a2c472323ebc796,
+        type: 3}
+      propertyPath: m_Text
+      value: FeatheredPlane
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb32766b7b8b64f40a2c472323ebc796, type: 3}
@@ -1144,7 +1149,7 @@ PrefabInstance:
     - target: {fileID: 171569634835423552, guid: cb32766b7b8b64f40a2c472323ebc796,
         type: 3}
       propertyPath: m_Name
-      value: MenuButton (3)
+      value: TogglePlaneDetection
       objectReference: {fileID: 0}
     - target: {fileID: 171569634835423553, guid: cb32766b7b8b64f40a2c472323ebc796,
         type: 3}
@@ -1250,6 +1255,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 171569636591638407, guid: cb32766b7b8b64f40a2c472323ebc796,
+        type: 3}
+      propertyPath: m_Text
+      value: TogglePlaneDetection
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb32766b7b8b64f40a2c472323ebc796, type: 3}
@@ -1394,7 +1404,7 @@ PrefabInstance:
     - target: {fileID: 171569634835423552, guid: cb32766b7b8b64f40a2c472323ebc796,
         type: 3}
       propertyPath: m_Name
-      value: MenuButton (2)
+      value: PlaneClassification
       objectReference: {fileID: 0}
     - target: {fileID: 171569634835423553, guid: cb32766b7b8b64f40a2c472323ebc796,
         type: 3}
@@ -1500,6 +1510,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 171569636591638407, guid: cb32766b7b8b64f40a2c472323ebc796,
+        type: 3}
+      propertyPath: m_Text
+      value: PlaneClassification
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb32766b7b8b64f40a2c472323ebc796, type: 3}
