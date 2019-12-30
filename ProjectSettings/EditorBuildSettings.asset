@@ -77,4 +77,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FacePose.unity
     guid: b1f4c6f7f9c984978a414c0442b1ccd3
+  - enabled: 1
+    path: Assets/Scenes/RearCameraWithFrontCameraFaceMesh.unity
+    guid: 5e22d599431c2467e8b8586e934a5ecf
+  - enabled: 1
+    path: Assets/Scenes/HumanBodyTracking2D.unity
+    guid: 9c263019fe1cd4e2fa46fb43822731a5
+  - enabled: 1
+    path: Assets/Scenes/HumanBodyTracking3D.unity
+    guid: 81131c50ac12749d98473ddab611abe3
+  - enabled: 1
+    path: Assets/Scenes/HumanSegmentationImages.unity
+    guid: 9c96ad3b21584488d883f678d8c2d1aa
   m_configObjects: {}
