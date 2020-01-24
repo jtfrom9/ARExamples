@@ -10,7 +10,7 @@ EditorBuildSettings:
     guid: 4b71bfb0f02274dd28d4093b78a5baaf
   - enabled: 1
     path: Assets/Scenes/SimpleAR.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    guid: 474d8285fecdf4009b044a5548c00438
   - enabled: 1
     path: Assets/Scenes/FeatheredPlane.unity
     guid: c8a185630b4334e618e3d85a4853873b
